@@ -1,0 +1,141 @@
+
+.contentWrapper{
+	justify-content: center;
+	margin: 30px 21%;
+	max-width: 935px;
+	width: 100%;
+}
+.right-main_div{
+	
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 454px 618px;
+    height: 618px;
+    margin-left: -35px;
+    margin-right: 7px;
+    width: 420px;
+    display: block;
+    float: left;
+}
+
+@keyframes fade {
+  0% { opacity:0;}
+  100% { opacity: 1;}
+}
+.fadeimg1{
+}
+
+.left-main_div{
+	margin-top: 76px;
+    max-width: 335px;
+    float: left;
+}
+.topDivWrapper{
+	background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    margin: 0 0 10px;
+    padding: 10px 0;
+}
+.imgClass{
+	width: 190px;
+    margin: auto 22%;
+}
+.firstlayer{
+	margin:0 20px 6px;
+	width: 89%;
+}
+.secondLayer{
+	border-radius: 3px;
+	box-sizing: border-box;
+	color: #262626;
+	display: flex;
+	flex-direction: row;
+	font-size: 14px;
+	position: relative;
+	width: 100%;
+	border:1px solid #efefef;
+	background: #fafafa;
+}
+.thirdLayer{
+	height:36px;
+	flex:1 0 0;
+	padding:0;
+	margin:0;
+}
+.labelClass{
+	color: #999;
+	font-size: 14px;
+	height: 36px;
+	left: 8px;
+	line-height: 36px;
+	overflow: hidden;
+	pointer-events: none;
+	position: absolute;
+	right:0;
+}
+.loginWrapper{
+	margin: 8px 40px;
+	display: block;
+    position: relative;
+}
+.buttonClass{
+	padding: 0 8px;
+	cursor: pointer;
+	background: #3897f0;
+	border-color: #3897f0;
+	color: #fff;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 26px;
+	outline: none;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 100%;
+}
+.inputClass{
+	height: 27px;
+    width: 200px;
+    background: #fafafa;
+    border:0;
+}
+.donthaveaccountWrapper{
+	background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    margin: 0 0 10px;
+    padding: 10px 0;
+}
+.donthaveaccountP{
+	color: #262626;
+    font-size: 15px;
+    margin: 15px;
+    text-align: center;
+}
+.forgotpass{
+	font-size: 15px;
+    line-height: 14px;
+    margin: auto 33%;
+    color: #003569;
+    text-decoration: none;
+}
+.getappP{
+	color: #262626;
+    font-size: 15px;
+    line-height: 18px;
+    margin: 10px 20px;
+    text-align: center;
+}
+.getappImgWrapper{
+	margin: 10px 0;
+}
+.appstoreimg{
+	width: 145px;
+	margin: auto 5%;
+}
+.googleplayimg{
+    width: 145px;
+}
